@@ -1,6 +1,6 @@
 ## ScrabbleGame
 
-![image](https://github.com/ChenHaz/ScrabbleGame/assets/129218828/6487c84f-995a-455b-9776-e4704868685a)
+<img align="right" width="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Scrabble_game_in_progress.jpg">
 
 
 Hello everyone ✋!<br>
