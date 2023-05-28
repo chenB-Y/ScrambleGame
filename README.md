@@ -81,6 +81,11 @@ In addition, if a player has used all of his or her letters, the sum of the othe
 
 <b>End of the game :</b><br>
 The game ends when all letters have been drawn and one player uses his or her last letter; or when all possible plays have been made.
-
+<br><br>
+##GANTT
 
 ![scrabble_game_2023-05-28_08 33pm](https://github.com/ChenHaz/ScrabbleGame/assets/129218828/e6fa4ba8-0583-487f-b0ae-38e3651eeff4)
+
+
+<h3>Link to our Jira:</h3><br>
+https://chenhazi12.atlassian.net/jira/software/projects/SG/boards/1/roadmap?shared=&atlOrigin=eyJpIjoiNzc4Y2NhYTA5ZmYwNDI4Y2I1Mjg0ZWMyNDcyYjg4MjYiLCJwIjoiaiJ9
