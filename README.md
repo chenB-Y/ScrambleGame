@@ -1,6 +1,6 @@
 ## ScrabbleGame
 
-<img align="right" width="100" height="100" src="[https://upload.wikimedia.org/wikipedia/commons/5/5d/Scrabble_game_in_progress](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FScrabble&psig=AOvVaw2_P6H3o-AZG2jbTfuCpoWf&ust=1685384044818000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCLC3_ITPmP8CFQAAAAAdAAAAABAD)">
+<img align="right" width="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Scrabble_game_in_progress.jpg">
 
 
 Hello everyone ✋!<br>
