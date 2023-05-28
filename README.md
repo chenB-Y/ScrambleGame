@@ -1,5 +1,8 @@
 ## ScrabbleGame
 
+![image](https://github.com/ChenHaz/ScrabbleGame/assets/129218828/6487c84f-995a-455b-9776-e4704868685a)
+
+
 Hello everyone ✋!<br>
 This is our project in Advanced software development course in College Of Management Academic Studies.<br>
 We built the game - <b>Srabble game:</b>
