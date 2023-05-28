@@ -1,6 +1,7 @@
 ## ScrabbleGame
 Hello everyone ✋!<br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Scrabble_game_in_progress.jpg">
+![image](https://github.com/ChenHaz/ScrabbleGame/assets/129218828/dbad343e-bf2e-4a01-9c62-ad49d5c3be3d)
+
 This is our project in Advanced software development course in College Of Management Academic Studies.<br>
 We built the game - <b>Srabble game:</b>
 Scrabble is a word game in which two to four players score points by placing tiles, each bearing a single letter, onto a game board divided into a 15×15 grid of squares. The tiles must form words that, in crossword fashion, read left to right in rows or downward in columns and are included in a standard dictionary or lexicon.
