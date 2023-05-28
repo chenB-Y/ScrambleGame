@@ -1,8 +1,4 @@
 ## ScrabbleGame
-
-<img align="right" width="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Scrabble_game_in_progress.jpg">
-
-
 Hello everyone ✋!<br>
 This is our project in Advanced software development course in College Of Management Academic Studies.<br>
 We built the game - <b>Srabble game:</b>
