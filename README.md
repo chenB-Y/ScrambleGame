@@ -1,7 +1,12 @@
-# ScrabbleGame
+## ScrabbleGame
+
+Hello everyone ✋!<br>
+This is our project in Advanced software development course in College Of Management Academic Studies.
+We built the game - Srabble game.
 
 <h5>Scrabble is a word game in which two to four players score points by placing tiles, each bearing a single letter, onto a game board divided into a 15×15 grid of squares. The tiles must form words that, in crossword fashion, read left to right in rows or downward in columns and are included in a standard dictionary or lexicon.</h5>
-# Scrabble Game Rules
+## Scrabble Game Rules
+<p>
   1. You are to make a word using your tiles. The longer the word, the
 better—try to make words longer than three letters unless you can get
 lots (10 or more) of points for a short word.
@@ -25,7 +30,8 @@ tripling letters or words as needed). This is your score.
 enough tiles from the bag so you have seven tiles on your rack.
 * You only get to count the double/triple letter/word scores if you put the tile over
 that space—if someone else placed the tile there, and you use that tile as part
-of your word, you do not get to double or triple anything
+of your word, you do not get to double or triple anything/
+</p>
 
 
 ![scrabble_game_2023-05-28_08 33pm](https://github.com/ChenHaz/ScrabbleGame/assets/129218828/e6fa4ba8-0583-487f-b0ae-38e3651eeff4)
