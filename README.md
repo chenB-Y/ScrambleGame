@@ -5,7 +5,7 @@ This is our project in Advanced software development course in College Of Manage
 We built the game - <b>Srabble game:</b>
 Scrabble is a word game in which two to four players score points by placing tiles, each bearing a single letter, onto a game board divided into a 15×15 grid of squares. The tiles must form words that, in crossword fashion, read left to right in rows or downward in columns and are included in a standard dictionary or lexicon.
 
-##Game Play
+## Game Play
 
 The first player combines 2 or more of his or her letters to form a word. He places this word on the board to read either across or down with one letter on the center square. Diagonal words are not allowed.
 
@@ -70,7 +70,7 @@ When a blank tile is played on a red or orange square, the value of the word is 
 When two or more words are formed in the same play, each is scored. The common letter is counted for each word.
 
 
-<b>BINGO!</b> If you play 7 tiles on a turn, it's a Bingo and you can add 50 bonus points to your score.
+<b>BINGO!</b><br> If you play 7 tiles on a turn, it's a Bingo and you can add 50 bonus points to your score.
 
 Unplayed Letters: When the game ends, each player's score is reduced by the sum of his unplayed letters.
 
@@ -78,7 +78,7 @@ In addition, if a player has used all of his or her letters, the sum of the othe
 
 
 
-<b>End of the game</b>
+<b>End of the game :</b><br>
 The game ends when all letters have been drawn and one player uses his or her last letter; or when all possible plays have been made.
 
 
