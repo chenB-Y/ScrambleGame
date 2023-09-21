@@ -1,6 +1,6 @@
 ## ScrabbleGame
 Hello everyone ✋!<br>
-Welcome to the Scramble Game! This Java-based game is built with a client-server architecture, using JavaFX for the frontend and Java for the backend. It follows the Model-View-ViewModel (MVVM) design pattern and incorporates a Bloom filter for efficient word validation against a dictionary. Players can enjoy this game by connecting from different computers to play against each other.
+Welcome to the Scramble Game! This Java-based game is built with a client-server architecture, using JavaFX for the frontend and Java for the backend. It follows the Model-View-ViewModel (MVVM) design pattern and incorporates a Bloom filter for efficient word validation against a dictionary. Players can enjoy this game by connecting from different computers to play against each other.<br>
 ![image](https://github.com/ChenHaz/ScrabbleGame/assets/129218828/dbad343e-bf2e-4a01-9c62-ad49d5c3be3d)
 
 This is our project in Advanced software development course in College Of Management Academic Studies.<br>
